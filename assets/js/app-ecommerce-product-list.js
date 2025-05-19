@@ -420,7 +420,7 @@ document.addEventListener("DOMContentLoaded", function (e) {
                   text: '<i class="icon-base ti tabler-plus me-0 me-sm-1 icon-16px"></i><span class="d-none d-sm-inline-block">Add Product</span>',
                   className: "add-new btn btn-primary",
                   action: function () {
-                    window.location.href = "app-ecommerce-product-add.html";
+                    window.location.href = "add-product.html";
                   },
                 },
               ],
